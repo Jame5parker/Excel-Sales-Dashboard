@@ -18,6 +18,11 @@ The focus is on identifying trends, high-performing segments, and opportunities 
 
 ---
 
+## 🔗 Dataset
+**Source:** [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+
+---
+
 ## 🧰 Tools & Skills Demonstrated
 | Tool / Skill | Application |
 |---------------|-------------|
