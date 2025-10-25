@@ -2,7 +2,7 @@
 
 ## 🎯 Project Purpose
 This project showcases my ability to **analyse business data**, **build insights-driven dashboards**, and **communicate results visually** using Microsoft Excel.  
-It’s designed as a practical demonstration of the kind of end-to-end analytical work I can perform in a professional setting — from cleaning and exploring data to developing dashboards and presenting insights.
+It’s designed as a practical demonstration of the kind of end-to-end analytical work I can perform in a professional setting — from cleaning and exploring data to developing dashboards and presenting key actionable insights.
 
 ---
 
@@ -33,8 +33,6 @@ The focus is on identifying trends, high-performing segments, and opportunities 
 |----------------|-------------|
 | **README.md** | Project documentation (this file) |
 | **Superstore Analysis Project.xlsx** | Main Excel file with dataset, pivot tables, and dashboards |
-| **/images/** *(optional)* | Screenshots of charts and dashboards |
-| **/data/** *(optional)* | Raw and cleaned datasets used in the analysis |
 
 ---
 
