@@ -1,14 +1,11 @@
 # 🏪 Superstore Sales Analysis Dashboard
-
-## 🎯 Project Purpose
-This project showcases my ability to **analyse business data**, **build insights-driven dashboards**, and **communicate results visually** using Microsoft Excel.  
-It’s designed as a practical demonstration of the kind of end-to-end analytical work I can perform in a professional setting — from cleaning and exploring data to developing dashboards and presenting key actionable insights.
+## 🎯 Project Overview
+- This project showcases my ability to **analyse business data**, **build insights-driven dashboards**, and **communicate results visually** using Microsoft Excel.  
+- It’s a practical demonstration of the end-to-end analytical work I can perform in a professional setting — from cleaning and exploring data to developing dashboards and presenting key actionable insights.
+- The **Superstore Analysis Project** examines sales, profit, and customer data from a retail superstore.  
+- The focus is on identifying trends, high-performing segments, and opportunities for profit optimisation.
 
 ---
-
-## 📊 Project Overview
-The **Superstore Analysis Project** examines sales, profit, and customer data from a retail superstore.  
-The focus is on identifying trends, high-performing segments, and opportunities for profit optimisation.
 
 ### Key Objectives:
 - Understand **regional and category-level sales performance**  
@@ -30,14 +27,6 @@ The focus is on identifying trends, high-performing segments, and opportunities 
 | **Data Visualization** | Interactive charts and KPI tracking |
 | **Analytical Thinking** | Identifying business trends and actionable insights |
 | **Storytelling with Data** | Structured and clear findings for non-technical audiences |
-
----
-
-## 📁 Repository Contents
-| File / Folder | Description |
-|----------------|-------------|
-| **README.md** | Project documentation (this file) |
-| **Superstore Analysis Project.xlsx** | Main Excel file with dataset, pivot tables, and dashboards |
 
 ---
 
